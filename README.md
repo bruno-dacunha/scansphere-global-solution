@@ -14,7 +14,7 @@ Simultaneamente, as empresas gastam orçamentos altíssimos em plataformas tradi
 
 ---
 
-## 💡 A Solução (Proposta de Valor e Customer Success)
+## 💡 A Solução (Proposta de Valor)
 O ScanSphere atua como um "escuta ativa" do fluxo de trabalho. Não é apenas um chatbot corporativo; é um motor de inteligência de negócios focado na produtividade e evolução contínua.
 
 ### 👤 1. Experiência do Colaborador (Learn-by-Doing)
