@@ -20,9 +20,9 @@ O ScanSphere atua como um "escuta ativa" do fluxo de trabalho. Não é apenas um
 
 
 ## 📸 Visão do Produto e Workflow
-<div align="center">
-  <img src="assets/workflow-scansphere.png" alt="Workflow da Aplicação" width="400"/>
+<div align="center">  
   <img src="assets/dashboard-gestor.png" alt="Dashboard do Gestor" width="400"/>
+  <img src="assets/workflow-scansphere.png" alt="Workflow da Aplicação" width="400"/>
 </div>
 
 
