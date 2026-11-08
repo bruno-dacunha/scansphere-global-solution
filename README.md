@@ -2,7 +2,7 @@
 
 **Visão Executiva:** O ScanSphere é um conceito de plataforma B2B SaaS desenhada para transformar a interação diária com ferramentas de Inteligência Artificial em um ecossistema ativo de *Upskilling*, *Reskilling* e gestão de talentos corporativos (Lifelong Learning).
 
-Desenvolvido como resposta ao desafio *Global Solution* (Future at Work) da FIAP, em parceria com a Care Plus, o projeto propõe uma transformação cultural profunda: sair do modelo reativo e genérico de treinamentos para uma abordagem contextual, preditiva e orientada por dados.
+Desenvolvido como resposta ao desafio acadêmico **Global Solution (tema: Future at Work)** da FIAP, o projeto propõe uma transformação cultural profunda: sair do modelo reativo e genérico de treinamentos corporativos para uma abordagem contextual, preditiva e orientada por dados.
 
 ---
 
@@ -15,7 +15,7 @@ Simultaneamente, as empresas gastam orçamentos altíssimos em plataformas tradi
 ---
 
 ## 💡 A Solução (Proposta de Valor e Customer Success)
-O ScanSphere atua como um "escuta ativa" do fluxo de trabalho. Não é apenas um chatbot; é um motor de inteligência de negócios focado na produtividade e evolução contínua.
+O ScanSphere atua como um "escuta ativa" do fluxo de trabalho. Não é apenas um chatbot corporativo; é um motor de inteligência de negócios focado na produtividade e evolução contínua.
 
 ### 👤 1. Experiência do Colaborador (Learn-by-Doing)
 *   **Input Contextual:** O profissional utiliza a IA corporativa para sanar dúvidas operacionais do dia a dia (ex: *como estruturar uma função DAX no Power BI*).
@@ -31,17 +31,17 @@ O ScanSphere atua como um "escuta ativa" do fluxo de trabalho. Não é apenas um
 ## ⚙️ Arquitetura e Modelagem de Dados
 Para sustentar as regras de negócio e a integração sistêmica, a arquitetura foi desenhada sobre um Banco de Dados Relacional robusto, mapeando o fluxo de usuários, aprendizado e gamificação corporativa:
 
-*   **Entidades Core:** `GESTORES`, `USUARIOS`, `INTERACOES` (captura do prompt e lacuna identificada) e `CURSOS` (catálogo de integrações com parceiros como Alura e FIAP).
-*   **Entidades de Negócio:** `RECOMENDACOES` (trilhas atreladas aos gaps operacionais) e `RELATORIOS` (consolidação de dados para visibilidade gerencial) e `PONTUACOES` (motor da gamificação).
+*   **Entidades Core:** `GESTORES`, `USUARIOS`, `INTERACOES` (captura do prompt e lacuna identificada) e `CURSOS` (catálogo de integrações com parceiros de ensino).
+*   **Entidades de Negócio:** `RECOMENDACOES` (trilhas atreladas aos gaps operacionais), `RELATORIOS` (consolidação de dados para visibilidade gerencial) e `PONTUACOES` (motor da gamificação).
 
 *(Visualize os diagramas Lógico e Relacional na pasta `/assets` deste repositório).*
 
 ---
 
 ## 🌍 Impacto ESG e Alinhamento Global
-A arquitetura de negócio foi elaborada considerando *compliance* corporativo e aderência aos Objetivos de Desenvolvimento Sustentável (ODS) da ONU:
+A arquitetura de negócio foi elaborada considerando *compliance* corporativo e aderência aos Objetivos de Desenvolvimento Sustentável (ODS) da ONU propostos pelo desafio:
 *   **ODS 4 (Educação de Qualidade) e ODS 8 (Trabalho Decente):** Fomenta a qualificação contínua e a empregabilidade sem interromper o fluxo produtivo da operação.
-*   **ODS 10 (Redução das Desigualdades):** Garante acesso a trilhas de requalificação personalizadas com base na necessidade operacional real do funcionário, promovendo equidade no desenvolvimento e neutralizando vieses.
+*   **ODS 10 (Redução das Desigualdades):** Garante acesso a trilhas de requalificação personalizadas com base na necessidade operacional real do funcionário, promovendo equidade no desenvolvimento e neutralizando vieses na recomendação de treinamentos.
 
 ---
 
