@@ -4,6 +4,8 @@
 
 Desenvolvido como resposta ao desafio acadêmico **Global Solution (tema: Future at Work)** da FIAP, o projeto propõe uma transformação cultural profunda: sair do modelo reativo e genérico de treinamentos corporativos para uma abordagem contextual, preditiva e orientada por dados.
 
+🎥 [Assista ao Pitch Executivo do Projeto de 2 minutos aqui](https://www.youtube.com/shorts/cQg_vraawVg)
+
 
 
 ## 🎯 O Paradoxo da IA e a Dor do Negócio
