@@ -64,4 +64,4 @@ A arquitetura de negócio foi elaborada considerando *compliance* corporativo e 
 ## 🛠️ Competências e Ferramentas Conceituais Aplicadas
 *   **Engenharia de Dados:** Oracle SQL / Modelagem Entidade-Relacionamento (MER).
 *   **Análise de Negócios:** Mapeamento de Workflows, Design de Dashboards Executivos, Estruturação de KPIs operacionais.
-*   **Estratégia e Inovação:** Inteligência Preditiva aplicada, Micro-learning, Gamificação corporativa B2B, Customer Success Management.
+*   **Estratégia e Inovação:** Inteligência Preditiva aplicada, Micro-learning, Gamificação corporativa B2B.
