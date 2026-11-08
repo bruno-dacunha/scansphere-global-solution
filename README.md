@@ -17,6 +17,16 @@ Simultaneamente, as empresas gastam orçamentos altíssimos em plataformas tradi
 ## 💡 A Solução (Proposta de Valor)
 O ScanSphere atua como um "escuta ativa" do fluxo de trabalho. Não é apenas um chatbot corporativo; é um motor de inteligência de negócios focado na produtividade e evolução contínua.
 
+
+
+## 📸 Visão do Produto e Workflow
+<div align="center">
+  <img src="assets/workflow-scansphere.png" alt="Workflow da Aplicação" width="400"/>
+  <img src="assets/dashboard-gestor.png" alt="Dashboard do Gestor" width="400"/>
+</div>
+
+
+
 ### 👤 1. Experiência do Colaborador (Learn-by-Doing)
 *   **Input Contextual:** O profissional utiliza a IA corporativa para sanar dúvidas operacionais do dia a dia (ex: *como estruturar uma função DAX no Power BI*).
 *   **Identificação Preditiva:** A plataforma entrega a resposta imediata, mas, em *background*, processa a lacuna de conhecimento que motivou a consulta.
@@ -33,6 +43,12 @@ Para sustentar as regras de negócio e a integração sistêmica, a arquitetura 
 
 *   **Entidades Core:** `GESTORES`, `USUARIOS`, `INTERACOES` (captura do prompt e lacuna identificada) e `CURSOS` (catálogo de integrações com parceiros de ensino).
 *   **Entidades de Negócio:** `RECOMENDACOES` (trilhas atreladas aos gaps operacionais), `RELATORIOS` (consolidação de dados para visibilidade gerencial) e `PONTUACOES` (motor da gamificação).
+
+*(Modelagem estruturada para suportar as integrações e a gamificação)*
+<div align="center">
+  <img src="assets/modelo-logico.png" alt="Modelo Lógico" width="400"/>
+  <img src="assets/modelo-relacional.png" alt="Modelo Relacional" width="400"/>
+</div>
 
 *(Visualize os diagramas Lógico e Relacional na pasta `/assets` deste repositório).*
 
